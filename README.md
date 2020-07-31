@@ -1,3 +1,3 @@
 # BlazorServerMinimal
 
-A stripped down version of the default Blazor server tamplate, no docker
+A stripped down version of the default Blazor server template, no docker
